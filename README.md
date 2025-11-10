@@ -14,9 +14,9 @@ Zhao Q, Lyu S, Bai W, Cai L, Liu B, Cheng G, Wu M, Sang X, Yang M, Chen L (2022)
 **Software**
 
 All training and model development were completed using the following tools and libraries: 
-- **Google Colab** using Python 3.11.13 with a **T4 GPU **
+- **Google Colab** using **Python 3.11.13** with a **T4 GPU**
 - **Matplotlib 3.10.0** and **Seaborn 0.13.2** for data visualization,
-- Qubvel’s Segmentation Models Pytorch 0.5.1.dev0 GitHub repository and PyTorch 2.0.1 for constructing the six deep learning models
+- Qubvel’s Segmentation Models **Pytorch 0.5.1.dev0** GitHub repository and PyTorch 2.0.1 for constructing the six deep learning models
 - **Pyradiomics v3.0.1** for radiomic extraction
-- **Pillow (PIL) 11.3.0** and **cv2 4.12.0 **for image and mask handling/ preprocessing
+- **Pillow (PIL) 11.3.0** and **cv2 4.12.0** for image and mask handling/ preprocessing
 - **Scikit-posthocs 0.11.4** and **SciPy 1.16.1** for statistical analysis
