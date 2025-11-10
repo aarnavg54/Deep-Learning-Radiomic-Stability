@@ -1,4 +1,4 @@
-# Deep-Learning-Radiomic-Stability
+# Deep Learning Radiomic Stability
 This repository contains all the code for my paper "Radiomic Stability and Segmentation Performance of Six Deep Learning Models for Ovarian Tumor Ultrasound Images."
 
 A preprint of this paper can be found here: https://doi.org/10.21203/rs.3.rs-7558643/v1 
